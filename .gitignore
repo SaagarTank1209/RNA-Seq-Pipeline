@@ -1,0 +1,17 @@
+# Large data files
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+data/fastq/*.fastq
+data/demo_trimmed.fastq
+
+# Reference files (too large for GitHub)
+data/reference/grch38/
+data/reference/*.fa
+data/reference/*.gtf
+
+# HISAT2 output
+HISAT2/*.bam
+
+# Keep only the script and results
