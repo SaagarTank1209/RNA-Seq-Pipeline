@@ -15,3 +15,4 @@ data/reference/*.gtf
 HISAT2/*.bam
 
 # Keep only the script and results
+.DS_Store
